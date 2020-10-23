@@ -12,6 +12,7 @@ Generate checksums:
 ```
 ./checksum.txt print.txt
 ```
+Use your favorite text editor to print two files using monospace font: `print.txt` and `print.txt.checksum`.
 
 # Restore
 
