@@ -16,7 +16,7 @@ Use your favorite text editor to print two files using monospace font: `print.tx
 
 # Restore
 
-## Take a clear photo with your smartphone or use a hardware scanner
+## Scan
 
 A clean photo is very important for high accuracy of OCR. Use gimp filters:
 * `Colors->Auto->White balance`
@@ -24,7 +24,7 @@ A clean photo is very important for high accuracy of OCR. Use gimp filters:
 
 If possible use harwdare scanner with minimum 300 dpi black and white mode.
 
-## Scan
+## OCR
 
 ```
 tesseract -c tessedit_char_whitelist=0123456789abcdef scanned.jpg scanned
