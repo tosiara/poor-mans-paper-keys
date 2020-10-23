@@ -18,6 +18,12 @@ Use your favorite text editor to print two files using monospace font: `print.tx
 
 ## Take a clear photo with your smartphone or use a hardware scanner
 
+A clean photo is very important for high accuracy of OCR. Use gimp filters:
+* `Colors->Auto->White balance`
+* `Image->Mode->Indexed->1bit`
+
+If possible use harwdare scanner with minimum 300 dpi black and white mode.
+
 ## Scan
 
 ```
