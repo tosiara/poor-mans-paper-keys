@@ -1,2 +1,2 @@
-# poor-mans-papper-keys
-Poor man's papper keys
+# poor-mans-paper-keys
+Poor man's paper keys
