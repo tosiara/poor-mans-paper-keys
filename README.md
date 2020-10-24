@@ -1,6 +1,6 @@
 # Poor man's paper keys
 
-A way to save your GPG keys on paper.
+A way to save your PGP/GPG keys on paper.
 
 # Print
 
