@@ -66,3 +66,10 @@ Both `4000x3000` and `8000x6000` gave pretty much the same result:
 4000x3000: 15 wrong characters, total 15 lines to manually review.  
 8000x6000: 19 wrong characters, total 16 lines to manually review.
 
+## 4000x3000 visual diff
+
+![meld_4000x3000.jpg](meld_4000x3000.jpg)
+
+## 8000x6000 visual diff
+
+![meld_8000x6000.jpg](meld_8000x6000.jpg)
